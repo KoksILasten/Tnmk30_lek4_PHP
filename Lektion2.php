@@ -1,4 +1,4 @@
-<?php include "meny.txt";?>
+<?php include "Menu.txt";?>
 
     <h1>Minimoog</h1>
     <p class="mainText">
